@@ -14,3 +14,4 @@ Before adding a source, confirm:
 10. Acceptance checks cover pagination, duplicates, deadlines and malformed pages.
 
 Logged-in social platforms and search engines should not be automated unless an approved API or explicit permission supports the intended use.
+

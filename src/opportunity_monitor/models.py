@@ -67,3 +67,4 @@ class PipelineResult(StrictModel):
     records: list[OpportunityRecord]
     source_health: list[SourceHealth]
     review_queue: list[str]
+

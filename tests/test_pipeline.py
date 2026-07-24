@@ -230,3 +230,4 @@ def test_fixture_rejects_wrong_source_kind(tmp_path: Path) -> None:
     collector = FixtureNewsletterCollector("source-a", fixture)
     with pytest.raises(Exception, match="unexpected source kind"):
         collector.collect()
+

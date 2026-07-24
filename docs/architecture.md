@@ -41,3 +41,4 @@ The in-memory ledger keeps the example focused. A production deployment would us
 - encrypted secret storage
 - scheduled container or serverless execution
 - metrics and alerting for stale or failing sources
+
