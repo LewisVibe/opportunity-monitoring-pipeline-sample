@@ -60,4 +60,3 @@ The demo processes fixture records representing a public web source and a newsle
 A production version would still need an agreed source registry, permitted connectors, encrypted secrets, durable persistence, a scheduler, observability, authentication, rate-limit policies and acceptance tests using representative private data.
 
 This is an independent work sample and contains no client data or private project code. Please keep project communication on Upwork until a contract is in place.
-

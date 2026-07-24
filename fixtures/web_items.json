@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "public-grants-portal",
+    "source_kind": "web",
+    "external_id": "grant-1042",
+    "url": "https://example.test/grants/circular-innovation?utm_source=monitor",
+    "title": "Circular Innovation Grant 2026",
+    "content": "Funding for organisations developing circular economy and waste-reduction projects across Australia.",
+    "discovered_at": "2026-07-24T08:00:00Z",
+    "deadline": "2026-08-03"
+  },
+  {
+    "source_id": "public-grants-portal",
+    "source_kind": "web",
+    "external_id": "event-88",
+    "url": "https://example.test/events/climate-procurement-summit",
+    "title": "Climate Procurement Summit",
+    "content": "A conference seeking speakers on sustainable procurement, ESG and low-carbon supply chains.",
+    "discovered_at": "2026-07-24T08:00:00Z",
+    "deadline": "2026-09-30"
+  }
+]

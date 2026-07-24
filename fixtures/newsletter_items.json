@@ -1,0 +1,21 @@
+[
+  {
+    "source_id": "weekly-opportunities-newsletter",
+    "source_kind": "newsletter",
+    "external_id": "newsletter-2026-30-item-4",
+    "url": "https://example.test/grants/circular-innovation?ref=newsletter",
+    "title": "Applications open: Circular Innovation Grant",
+    "content": "The Circular Innovation Grant supports Australian circular economy and waste-reduction projects. Applications close on 3 August.",
+    "discovered_at": "2026-07-24T09:30:00Z",
+    "deadline": "2026-08-03"
+  },
+  {
+    "source_id": "weekly-opportunities-newsletter",
+    "source_kind": "newsletter",
+    "external_id": "newsletter-2026-30-item-9",
+    "url": "https://example.test/notices/general-network-update",
+    "title": "General network update",
+    "content": "A short member update about office hours, staffing and routine administration.",
+    "discovered_at": "2026-07-24T09:30:00Z"
+  }
+]
